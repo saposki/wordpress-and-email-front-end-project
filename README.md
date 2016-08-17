@@ -23,7 +23,7 @@ There are no mockups for this one, so don’t worry about making it look great.
 
  Please write an HTML email that matches this mockup:
 
- ![Responsive Email Mock]()
+ ![Responsive Email Mock](https://raw.githubusercontent.com/eaze/wordpress-and-email-front-end-project/master/email/images/mockup.png)
 
  Make sure it satisfies these requirements:
 
