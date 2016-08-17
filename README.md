@@ -27,9 +27,9 @@ There are no mockups for this one, so don’t worry about making it look great.
 
  Make sure it satisfies these requirements:
 
- 1) renders well on all major email apps/platforms
- 2) renders well for various screen sizes
- 3) Works without images off
+ 1. renders well on all major email apps/platforms
+ 2. renders well for various screen sizes
+ 3. Works without images off
 
 ## Setup
 
