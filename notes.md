@@ -18,6 +18,7 @@ solution 3
 - build plugin
 
 ## Email
+
 `LOGO`
 
 Get this responsive email template
