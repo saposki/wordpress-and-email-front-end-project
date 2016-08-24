@@ -553,6 +553,7 @@ a:active {
 .main-navigation a {
 	display: block;
 	text-decoration: none;
+	padding-left: 10px;
 }
 
 .main-navigation ul ul {
